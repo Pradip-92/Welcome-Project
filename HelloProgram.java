@@ -18,6 +18,6 @@ public class HelloProgram {
 		System.out.println("Welcome to the main");
 		HelloProgram hp = new HelloProgram();
 		hp.hello();
-		hp.helloJenkins()
+		hp.helloJenkins();
 	}
 }
