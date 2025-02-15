@@ -1,4 +1,3 @@
-package com.dc.stream.test.app;
 
 public class HelloProgram {
 	
